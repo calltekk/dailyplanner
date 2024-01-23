@@ -1,6 +1,5 @@
 # Daily Planner
-
-![Work Day Scheduler](link_to_image_or_screenshot)
+![Screenshot 2024-01-23 at 12 47 27](https://github.com/calltekk/dailyplanner/assets/112567796/8b0e52d4-b4a7-44d1-ac95-1756a62551d0)
 
 ## Overview
 
