@@ -39,7 +39,7 @@ The Daily Planner is a simple calendar application designed to help users manage
 
 ## Deployment
 
-The application is deployed and can be accessed live at 
+The application is deployed and can be accessed live at https://calltekk.github.io/dailyplanner/
 
 
 ## Acknowledgments
