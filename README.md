@@ -32,6 +32,7 @@ The Daily Planner is a simple calendar application designed to help users manage
 - HTML
 - CSS
 - JavaScript
+- jQuery
 - [Bootstrap](https://getbootstrap.com/) (v5.3.0-alpha3)
 - [Font Awesome](https://fontawesome.com/) (v5.8.1)
 - [Day.js](https://day.js.org/) (v1)
